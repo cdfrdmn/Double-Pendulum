@@ -44,17 +44,3 @@ doublePendulum(2, 1, 0.5, 0.5, 0.5, -0.2, 10)
 The program will output two graphs:
 * The angle of each pendulum against time
 * The angular velocity of each pendulum against time
-
-## How does it work?
-
-
-
-
-
-
-
-
-
-
-
-
