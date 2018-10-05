@@ -21,13 +21,13 @@ Once you have a copy of this program on your local machine, navigate to the prog
 
 
 The function ```doublePendulum``` takes 7 arguments: 
-1. mass1 - the mass of the upper pendulum bob (in kg)
-2. mass2 - the mass of the lower pendulum bob (in kg)
-3. len1 - the lengths of the upper pendulum rod (in m)
-4. len2 - the length of the lower pendulum rod (in m)
-5. theta1 - the initial angle of the upper pendulum rod (in radians)
-6. theta2 - the initial angle of the lower pendulum rod (in radians)
-7. tmax - the length of time that the motion is simulater over (in seconds)
+1. *mass1* - the mass of the upper pendulum bob (in kg)
+2. *mass2* - the mass of the lower pendulum bob (in kg)
+3. *len1* - the lengths of the upper pendulum rod (in m)
+4. *len2* - the length of the lower pendulum rod (in m)
+5. *theta1* - the initial angle of the upper pendulum rod (in radians)
+6. *theta2* - the initial angle of the lower pendulum rod (in radians)
+7. *tmax* - the length of time that the motion is simulater over (in seconds)
 
 In your console, enter
 
