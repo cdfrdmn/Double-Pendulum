@@ -4,12 +4,14 @@ This program simulates motion of a double pendulum system, by solving 4 first-or
 
 ## Getting Started
 
+### Prerequisites
+* Python development environment
+
 To run this program, you must set up a Python development environment on your machine:
 * Go to the Python website (https://www.python.org/getit/). Download and install the latest version.
 
 Once Python is installed on your machine, simply download the files from this repository!
 
-### Prerequisites
 
 ## Running the program
 
