@@ -4,6 +4,10 @@ This program simulates motion of a double pendulum system, by solving 4 first-or
 
 The user can input the desired masses and rod lengths of both the upper and lower pendulums, and two graphs are outputted: the angle, and angular velocity of both pendulums over time.
 
+NOTE: This pendulum model assumes:
+* The pendulum rods are inextensible, massless, and taught
+* No air resistance
+
 ## Getting Started
 
 ### Prerequisites
