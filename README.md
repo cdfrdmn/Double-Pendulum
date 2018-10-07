@@ -48,3 +48,7 @@ doublePendulum(2, 1, 0.5, 0.5, 0.5, -0.2, 10)
 The program will output two graphs:
 * The angle of each pendulum against time
 * The angular velocity of each pendulum against time
+
+e.g., for the above command, see the following graphs:
+
+![screenshot1](https://user-images.githubusercontent.com/43573338/46582517-fe1f1380-ca3f-11e8-80f6-e4c97ab7ab59.png)
